@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/fullstackfaizan/gddr/static/css/main.073c9b0a.css",
+    "main.js": "/fullstackfaizan/gddr/static/js/main.23c90d5b.js",
+    "static/js/787.16bdf801.chunk.js": "/fullstackfaizan/gddr/static/js/787.16bdf801.chunk.js",
+    "static/media/logo.svg": "/fullstackfaizan/gddr/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/fullstackfaizan/gddr/index.html",
+    "main.073c9b0a.css.map": "/fullstackfaizan/gddr/static/css/main.073c9b0a.css.map",
+    "main.23c90d5b.js.map": "/fullstackfaizan/gddr/static/js/main.23c90d5b.js.map",
+    "787.16bdf801.chunk.js.map": "/fullstackfaizan/gddr/static/js/787.16bdf801.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.23c90d5b.js"
+  ]
+}
